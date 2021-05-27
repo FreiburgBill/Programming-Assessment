@@ -1,0 +1,2 @@
+# Programming-Assessment
+  For a job interview I received a Programming Assessment. The challenge was to do as much as you could within an hour. I only wrote a template for the code that would need be written in the hour that was given. I now took time to go back and actually finish the code. If you want to do the Assessment: DO NOT LOOK AT MY SOLUTION until after you read the pdf instructions and give yourself an hour to do what you can. After you make an attempt, then you can look at my solution. Recommendations for improvements are very welcomed!
